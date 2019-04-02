@@ -7,3 +7,4 @@ LeetCode（JavaScript）解题，两周一例；
 ## 题
 
 - [两数之和](./src/i_1.ts)
+- [两数相加](./src/i_2.ts)

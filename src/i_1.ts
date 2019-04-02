@@ -1,5 +1,4 @@
 /// title: 两数之和
-/// URL: https://leetcode-cn.com/problems/two-sum/
 
 export const twoSumMap = (nums: number[], target: number): number[] | undefined => {
   let m = new Map();
