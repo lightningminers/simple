@@ -1,5 +1,6 @@
 // 求众数
 // 给定一个大小为 n 的数组，找到其中的众数。众数是指在数组中出现次数大于 ⌊ n/2 ⌋ 的元素。
+// 所谓的众数是指数组中出现次数最多的数
 
 const majorityElement = (nums: number[]) => {
   const len = nums.length;
